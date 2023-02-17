@@ -1,0 +1,3 @@
+# fuckGPT
+
+Welcome to fuckGPT
